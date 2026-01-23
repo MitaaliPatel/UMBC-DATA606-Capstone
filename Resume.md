@@ -25,7 +25,7 @@ GPA: 3.8 / 4.0
 **Bachelor of Technology in Information Technology**  
 Institute of Advanced Research, India
 Graduated: April 2024
-CGPA: 8.4/10
+CGPA: 8.4/ 10.0
 
 ---
 
