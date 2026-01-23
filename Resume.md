@@ -1,6 +1,6 @@
 # Mitaali Patel
 
-![Headshot](Mitaali_Profille.jpeg)
+![Headshot](Mitaali_Profile.jpeg)
 
 📍 United States  
 📧 Email: mitaalipatel2802@gmail.com  
