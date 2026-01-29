@@ -82,4 +82,5 @@ GPA: 3.36 / 4.0
 
 - Machine Learning & Applied AI  
 - Big Data Analytics  
-- Real-world problem solving using data  
+- Real-world problem solving using data
+- Data Analysis
