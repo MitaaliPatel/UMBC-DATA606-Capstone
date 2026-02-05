@@ -46,7 +46,7 @@ This project will use a combination of public datasets related to disaster event
 ## 3.1 Data Sources
 
 1. FEMA Individual Assistance Housing Registrants Data  
-   Source: https://www.fema.gov/openfema-data-page/individual-assistance-housing-registrants-large-disasters  
+   Source: https://www.fema.gov/about/openfema/data-sets  
    This dataset contains records of individuals and households who applied for disaster assistance following major disasters.
 
 2. NOAA Storm Events Database  
