@@ -8,7 +8,7 @@
 **Links:**
 - [GitHub Repository](https://github.com/MitaaliPatel/UMBC-DATA606-Capstone)
 - [LinkedIn Profile](https://www.linkedin.com/in/mitaali-patel)
-- PowerPoint Presentation: *Coming soon*
+- [PowerPoint Presentation] (https://canva.link/qqr4e475ihcar61)
 - YouTube Video: *Coming soon*
 
 ---
