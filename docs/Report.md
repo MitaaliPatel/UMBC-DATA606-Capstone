@@ -91,7 +91,7 @@ The dataset is not evenly distributed across years. The year 2020 accounts for 3
 
 ## 3. Exploratory Data Analysis
 
-All EDA was performed in Jupyter Notebook. The full notebook is available at: [EDAandVisualization.ipynb](./notebooks/EDAandVisualization.ipynb) 
+All EDA was performed in Jupyter Notebook. The full notebook is available at: [EDAandVisualization.ipynb](./notebooks/EDAandVisualization.ipynb)
 
 ### Summary Statistics
 
