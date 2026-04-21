@@ -1,5 +1,3 @@
-# app
-
 This folder contains the Streamlit web application for the FEMA Disaster Assistance Dashboard.
 
 ## File
