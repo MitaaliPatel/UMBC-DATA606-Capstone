@@ -102,7 +102,7 @@ EDA was performed in Jupyter Notebook and covers:
 
 Key finding: 2020 accounts for the majority of records driven by COVID-19 disaster declarations and an active hurricane season. Louisiana counties dominate the top per-capita assistance list due to repeated hurricane impacts.
 
-See the full notebook: [EDAandVisualization.ipynb](./notebooks/EDAandVisualization.ipynb)
+See the full notebook: [EDAandVisualization.ipynb](/notebooks/EDAandVisualization.ipynb)
 
 ---
 
